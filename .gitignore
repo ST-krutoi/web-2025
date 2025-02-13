@@ -1,2 +1,3 @@
-node_modules/.vs
-/coverage/.vs
+touch .gitignore
+# Добавляем в файл правила игнорирования по примеру выше
+/tmp/.vs
